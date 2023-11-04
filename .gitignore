@@ -3,3 +3,4 @@
 /libdeflate-*.tar.gz
 cscope*
 tags
+.temp
